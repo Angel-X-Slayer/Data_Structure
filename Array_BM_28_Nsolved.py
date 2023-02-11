@@ -1,0 +1,2 @@
+def gcd(arr):
+    pass

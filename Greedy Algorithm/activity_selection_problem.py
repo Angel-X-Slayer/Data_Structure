@@ -18,3 +18,6 @@ print(op)
 # f is the ending poibnt of a task. if f is less thanm the next task, then append the index of the task in op,
 # and update the f with recent task's ending time. if the f is greater than the starting time of the next task then pass
 # and go to the next task.
+
+
+# https://www.geeksforgeeks.org/top-20-greedy-algorithms-interview-questions/

@@ -1,7 +1,9 @@
 start = [1, 3, 0, 5, 8, 5]
 finish = [2, 4, 6, 7, 9, 9]
 lst = list(zip(start, finish))
-# [print(i) for i in lst]
+# print(lst)
+# lst = sorted(lst, key=lambda x: x[0])      ## sort 2 lists with the help of 1st list elements
+# print(lst)
 op = []
 f = 0
 for i in range(len(lst)):
